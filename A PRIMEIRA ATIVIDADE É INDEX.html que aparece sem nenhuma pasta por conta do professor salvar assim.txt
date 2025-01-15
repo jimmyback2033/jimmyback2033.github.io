@@ -1,1 +1,2 @@
-Isso é apenas um AVISO: a pagina HTML nao foi salva em uma pasta pois o professor salvou apenas no diretório: 
+Isso é apenas um AVISO: a pagina HTML da '1 atividade' nao foi salva em uma pasta, assim que voce acessar o repositorio do link a atividade para ser avaliada esta logo no começo : Index.html ( o professor salvou sem nenhuma pasta pois era outra plataforma).
+Ass: Jimmy Chiarelli Goulart
